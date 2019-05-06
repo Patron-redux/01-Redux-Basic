@@ -1,0 +1,19 @@
+{
+  "name": "01-redux-basic",
+  "version": "1.0.0",
+  "description": "Redux Básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ngrx/store": "^7.4.0",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  }
+}
